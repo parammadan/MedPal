@@ -7,7 +7,7 @@
 
 MedPal is a generative AI-powered healthcare assistant that answers medical questions, suggests home remedies, assesses symptom severity, and recommends nearby clinics based on user input.
 
-Built using:
+Built using-
 - **Fine-Tuned FLAN-T5 model**
 - **Retrieval-Augmented Generation (RAG) with Weaviate**
 - **Prompt Engineering & Synthetic Data Generation**
