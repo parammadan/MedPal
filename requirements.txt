@@ -1,0 +1,11 @@
+streamlit
+langchain
+weaviate-client
+sentence-transformers
+transformers
+torch
+requests
+scikit-learn
+python-dotenv
+langchain-community
+weaviate-client>=3.26.7,<4.0.0
