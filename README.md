@@ -13,6 +13,7 @@ Built using-
 - **Prompt Engineering & Synthetic Data Generation**
 - **Streamlit UI (coming soon!)**
 
+
 ---
 
 ## 🚀 Features
@@ -22,6 +23,7 @@ Built using-
 - 🚑 **Severity Assessment**: Scores user symptoms from 1 to 5 based on urgency.
 - 🏥 **Nearby Clinics**: Suggests real-world doctors and clinics if symptoms are serious.
 - 🔁 **Smart Follow-Up**: Recommends related questions the user might also ask.
+
 
 ---
 
@@ -67,7 +69,8 @@ MedPal will generate an intelligent, safe answer.
 
 If severity is high, you'll be asked for your ZIP code to find nearby clinics!
 
----
+---Medium----https://medium.com/@paramm1202/medpal-building-a-smart-healthcare-assistant-with-rag-fine-tuning-and-streamlit-00c1cd9cd4b7
+--streamlit--https://medpal-e86daaa4zmappjmyrmbuxx3.streamlit.app/
 ## 📂 Project Structure
 
 ```plaintext
